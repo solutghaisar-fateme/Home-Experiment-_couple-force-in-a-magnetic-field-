@@ -22,3 +22,5 @@ To visualize and understand the couple of forces acting on a current-carrying co
 Notes:
 
 Approximate values and estimations were used in the measurements and calculations.
+
+My linkedin : https://www.linkedin.com/in/fateme-ghaisar-098782390?trk=contact-info
