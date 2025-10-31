@@ -1,2 +1,24 @@
-# Home-Experiment-_couple-force-in-a-magnetic-field-
-This repository contains all the steps of the experiment and additional handwritten explanations. The torque of the structure has been calculated step by step. A video of the experiment has also been uploaded on LinkedIn.
+Home experiment_couple force in a magnetic field 
+
+
+ Materials Used:
+
+Two 15 cm copper wires
+
+One 50 cm copper wire
+
+A strong magnet (preferably neodymium)
+
+1.5 V battery
+
+Tape or connectors
+
+
+Objective:
+
+To visualize and understand the couple of forces acting on a current-carrying coil in a magnetic field and observe the resulting rotational torque.
+
+
+Notes:
+
+Approximate values and estimations were used in the measurements and calculations.
